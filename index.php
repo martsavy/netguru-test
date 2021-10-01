@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
 	<h1><font color=white>Netguru Test Application<br></font></h1>
-        <h2><font color=gold>V2.0<br></font></h2>
+        <h2><font color=gold>V2.1<br></font></h2>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
